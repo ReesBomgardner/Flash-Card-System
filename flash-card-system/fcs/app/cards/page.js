@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from "next/link"
-import cardData from '../public/Cards.json';
+import cardData from '/public/Cards.json';
 
 const HomePage = () => {
   return (
