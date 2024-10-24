@@ -1,0 +1,43 @@
+{
+    "Card": [
+      {
+        "id": 1,
+        "prompt": "How do you say hello in Japanese?",
+        "answer": "こんにちは",
+        "amount_understood": 80,
+        "next_view_time": "2024-10-25T12:00:00Z"
+      },
+  
+      {
+        "id": 2,
+        "prompt": "How do you say goodbye in Spanish?",
+        "answer": "Adiós",
+        "amount_understood": 90,
+        "next_view_time": "2024-10-24T12:00:00Z"
+      },
+  
+      {
+        "id": 3,
+        "prompt": "How do you say thank you in French?",
+        "answer": "Merci",
+        "amount_understood": 90,
+        "next_view_time": "2024-10-24T12:00:00Z"
+      },
+  
+      {
+        "id": 4,
+        "prompt": "How do you say excuse me in Arabic?",
+        "answer": "عفوا",
+        "amount_understood": 30,
+        "next_view_time": "2024-10-24T12:00:00Z"
+      },
+      
+      {
+        "id": 5,
+        "prompt": "How do you say I love you in Cantonese?",
+        "answer": "我愛你",
+        "amount_understood": 30,
+        "next_view_time": "2024-10-24T12:00:00Z"
+      }
+    ]
+  }
